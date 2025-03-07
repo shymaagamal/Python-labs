@@ -26,7 +26,7 @@ Ensure you have **Python 3.11.9** installed on your system.
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/crowdfunding-app.git
+   git clone https://github.com/your-username/crowdfunding-app.git](https://github.com/shymaagamal/Python-labs.git
    cd crowdfunding-app
    ```
 2. Install dependencies:
